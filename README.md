@@ -1,9 +1,5 @@
 # Food-Donation-App
-Project Title:
-Food donation app. The app will contain adds which helps to earn money and 
-you can buy this app to remove adds.
-Target Audience:
-People who do charities and restaurant owners.
+
 Project Description:
 This food donation app will provide restaurants a chance to share their excess 
 food with poor people instead of wasting the food. 
